@@ -1,4 +1,4 @@
-# 
+# Enhance YNAB for PC | YNAB for Windows with automatic Plugin for YNAB for PC | YNAB for Windows - inventory-management and payment-processing, the #1 plugin. Includes
 
 
 
